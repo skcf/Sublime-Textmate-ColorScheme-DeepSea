@@ -1,11 +1,11 @@
 #DeepSea
 
-##Sublime Text Color Scheme
+##Sublime Text & TextMate Color Scheme
 
-Deep, Blue, Simple SublimeText 2/3 Color Scheme.
+Deep, Blue, Simple, SublimeText 2/3 & TextMate Color Scheme.
 
 
-###Samples
+###SublimeText Samples
 
 ###Javascript
 ![ScreenShot1](./screenshots/screenshot1.png)
