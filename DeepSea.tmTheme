@@ -191,7 +191,7 @@ THE SOFTWARE.
                 <key>fontStyle</key>
                 <string>underline</string>
                 <key>foreground</key>
-                <string>#95CC5E</string>
+                <string>#ACFF57</string>
             </dict>
         </dict>
         <dict>
@@ -204,7 +204,7 @@ THE SOFTWARE.
                 <key>fontStyle</key>
                 <string>italic underline</string>
                 <key>foreground</key>
-                <string>#b1f331</string>
+                <string>#AFFF00</string>
             </dict>
         </dict>
         <dict>
@@ -400,7 +400,7 @@ THE SOFTWARE.
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#8FBE00A0</string>
+                <string>#C4FF00</string>
             </dict>
         </dict>
         <dict>
@@ -409,7 +409,7 @@ THE SOFTWARE.
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#E6DB74</string>
+                <string>#FFF05B</string>
             </dict>
         </dict>
 
